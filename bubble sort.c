@@ -1,4 +1,4 @@
-
+#include<stdio.h>
 int main(){
    int a[50], i,j,n,t;
    printf("enter the No: of elements in the list: ");
